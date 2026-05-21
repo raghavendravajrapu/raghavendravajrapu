@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>AI-powered projects like RankForge and Rental Platform<br><br>👯 I’m looking to collaborate on<br>Web development, full stack, and data-driven projects<br><br>🤝 I’m looking for help with<br>Backend development and system design<br><br>🌱 I’m currently learning<br>Data Analytics and Java Full Stack Development<br><br>💬 Ask me about<br>Java, SQL, Web Development, and basics of Data Analytics<br><br>⚡ Fun fact<br>I enjoy building real-world applications and exploring data insights 📊🚀
+🔭 I’m currently working on<br>AI-powered projects like RankForge, MealMate and Rental Platform<br><br>👯 I’m looking to collaborate on<br>Web development, full stack, and data-driven projects<br><br>🤝 I’m looking for help with<br>Backend development and system design<br><br>🌱 I’m currently learning<br>Data Analytics and Java Full Stack Development<br><br>💬 Ask me about<br>Java, SQL, Web Development, and basics of Data Analytics<br><br>⚡ Fun fact<br>I enjoy building real-world applications and exploring data insights 📊🚀
 
 
 ## 🌐 Socials:
